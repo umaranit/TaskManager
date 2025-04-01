@@ -95,17 +95,14 @@ Leverage Modern Tools and Libraries:
 
 - Use popular frameworks like React.js, Angular, or Vue.js for the front-end.
 For the back-end, choose a robust framework like Spring Boot (Java), ASP.NET Core (.NET), or Flask/Django/FastAPI (Python).
-Use cloud services (e.g., Azure, AWS) for deployment if possible.
 
 - AI Feature Implementation:
 Choose an AI feature that adds real value to the application (e.g., task recommendations, NLP for task input, sentiment analysis).
-Use pre-trained models or APIs (e.g., OpenAI, TensorFlow, or PyTorch) to save time.
-Test Thoroughly:
 
+Test Thoroughly:
 - Test the application for bugs, edge cases, and performance issues.
 Ensure cross-browser compatibility for the front-end.
 
 - Document Everything:
-
 Provide clear instructions for setting up and running the application.
 Include a README file with details about the architecture, features, and any third-party tools used.
