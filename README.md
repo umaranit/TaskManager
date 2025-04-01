@@ -76,4 +76,10 @@ _To Be Announced_
 
 ### 1. Starter Code:
 - The existing Task Manager application (**HTML**, **CSS**, **jQuery**).
+## Judging Criteria and Guidance
+To evaluate the teams, consider:
+- Creativity & Completeness: How well did the team understand and implement the use case?
+-	Utilization of GitHub Copilot: Did they effectively use Copilot to assist with coding and problem-solving?
+-	Code Quality & Documentation: Is the modernized implementation clean, efficient, and well-documented?
+-	Demo: A working output
 
